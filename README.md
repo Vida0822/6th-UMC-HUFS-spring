@@ -1,3 +1,5 @@
+
+## UMC 6기 - Server 스터디 진행
 4/4 (목) <br> 
 Chapter 4. Database 설계 <br>
 <br>
