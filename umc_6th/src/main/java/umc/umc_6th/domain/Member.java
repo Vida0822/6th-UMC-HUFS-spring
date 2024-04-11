@@ -52,6 +52,9 @@ public class Member extends BaseEntity {
     private String email;
 
     private Integer point;
+    // 기본형이 아니라 래퍼 클래스를 사용하는 이유
+    //  : 기본형이면 default 값이 자동으로 설정 되기에 값의 유무 여부를 정확히 파악하기 어렵다
+    //      + 래퍼 클래스면 Optional 객체 등 객체기 때문에 사용할 수 있는 다양한 부가 기능이 적용가능하다.
 
     private boolean locationInfo ;
 
@@ -59,8 +62,10 @@ public class Member extends BaseEntity {
 
     @OneToMany(mappedBy = "member" ,
             // 연관관계 거울 (참조 당하는 쪽) -- "member" : 참조되어서 담기는 필드명
-               cascade = CascadeType.ALL)
-            // jpa 에서는 참조 '당하는 쪽'에서 Cascade 설정 해줘야 한다 -> 즉 Member(One)가 삭제시 이를 참조하는 Prefer (Many) 데이터들도 같이 삭제
+               cascade = CascadeType.ALL,
+            // jpa 에서는 참조 '당하는 쪽' 클래스에서 Cascade 설정 해줘야 한다 -> 즉 Member(One)가 삭제시 이를 참조하는 Prefer (Many) 데이터들도 같이 삭제
+            fetch = FetchType.LAZY)
+            // 셍략가능 : @xxToMany에서는 LAZY가 디폴트.
     private List<MemberPrefer> memberPreferList = new ArrayList<>();
 
     @OneToMany(mappedBy = "member", cascade = CascadeType.ALL)
@@ -69,6 +74,9 @@ public class Member extends BaseEntity {
     @OneToMany(mappedBy = "member", cascade = CascadeType.ALL)
     private List<Review> reviewList = new ArrayList<>() ;
 
+    @Transient
+    // 필드 매핑 X,DB에 저장 X, 조회 X => 주로 메모리상에서만 임시로 어떤 값을 보관하고 싶을 때 사용
+    private Integer calculateNum;
 
 
 }
