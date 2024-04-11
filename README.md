@@ -14,7 +14,7 @@
 <br>
 
 #### Week 2 
-4/11 (목) 
+4/11 (목) <br>
 워크북 : Chapter 7. Jpa를 통한 엔티티 설계, 매핑 & 프로젝트 파일 구조 이해 <br> 
 세션 자료 : [영속성 컨텍스트와 엔티티 설계](https://jorippppong.notion.site/Week-2-0654f7e65e884af9b7f60243c9e4a8d8) <br>
 <br> 
