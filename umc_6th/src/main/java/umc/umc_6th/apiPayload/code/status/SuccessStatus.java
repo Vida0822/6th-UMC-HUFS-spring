@@ -8,7 +8,7 @@ import umc.umc_6th.apiPayload.code.ReasonDTO;
 
 @Getter
 @AllArgsConstructor
-public enum CommonSuccessStatus implements BaseSuccessStatus {
+public enum SuccessStatus implements BaseSuccessStatus {
     _OK(HttpStatus.OK, "COMMON200", "정상적으로 처리되었습니다")
     ;
     private final HttpStatus httpstatus ;
