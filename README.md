@@ -12,7 +12,7 @@
 4/4 (목) <br> 
 워크북 : Chapter 4. Database 설계 <br>
 세션 자료 : [스프링 소개 및 객체지향 소개, DB 설계](https://jorippppong.notion.site/Week-1-DB-0ad49aaf4fed4abda6701603db3c2224?pvs=4)  <br>
-미션/실습 : [ERD 만들어보기](https://github.com/Vida0822/6th-UMC-HUFS-spring/blob/4cbd3535f8a181d2219de9afc0fc7b8e7237099f/Week1/erd.png) <br>
+미션/실습 : [ERD 만들어보기](https://github.com/Vida0822/6th-UMC-HUFS-spring/wiki/Week-1.-ERD-%EC%84%A4%EA%B3%84) <br>
 <br>
 
 #### Week 2 
