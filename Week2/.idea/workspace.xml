@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8ffd721a-3462-4c52-b246-22d14f6c28ea" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/umc_6th/Umc6thApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/umc_6th/domain/FoodCategory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/umc_6th/domain/Member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/umc_6th/domain/Mission.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/umc_6th/domain/Region.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/umc_6th/domain/Review.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/umc_6th/domain/ReviewImage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/umc_6th/domain/Store.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/umc_6th/domain/StoreImage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/umc_6th/domain/common/BaseEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/umc_6th/domain/enums/Gender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/umc_6th/domain/enums/MemberStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/umc_6th/domain/enums/MissionStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/umc_6th/domain/enums/SocialType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/umc_6th/domain/mapping/MemberMission.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/umc_6th/domain/mapping/MemberPrefer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/umc/umc_6th/Umc6thApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2euj2HZ0kSMeHqbVozJhBY0lcsG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "android.gradle.sync.needed": "true",
+    "git-widget-placeholder": "week2/entities",
+    "last_opened_file_path": "D:/Programming/UMC 6기/umc_6th",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programming\UMC 6기\Week2\src\main\java\umc\umc_6th" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Umc6thApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="umc_6th.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="umc.umc_6th.Umc6thApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ffd721a-3462-4c52-b246-22d14f6c28ea" name="Changes" comment="" />
+      <created>1712761150476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712761150476</updated>
+      <workItem from="1712761151543" duration="1385000" />
+      <workItem from="1712762611790" duration="5599000" />
+      <workItem from="1712829377457" duration="4247000" />
+      <workItem from="1714540059767" duration="254000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
