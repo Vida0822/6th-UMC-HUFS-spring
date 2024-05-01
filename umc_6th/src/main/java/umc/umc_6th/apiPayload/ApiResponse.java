@@ -5,6 +5,8 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
+import umc.umc_6th.apiPayload.code.BaseSuccessStatus;
+import umc.umc_6th.apiPayload.code.status.CommonSuccessStatus;
 
 @Getter
 @AllArgsConstructor
@@ -34,15 +36,14 @@ public class ApiResponse<T> {
     // --> 어떤 형태의 값이 올지 모르므로, 어떤 클래스 종류이던 담을 수 있는 제네릭 클래스(T) 사용
 
     // 성공한 경우 응답 생성
-    /*
     public static <T> ApiResponse<T> onSuccess(T result){
-        return new ApiResponse<>(true,SuccessStatus._OK.getCode(), SuccessStatus._OK.getMessage(), result) ;
+        return new ApiResponse<>(true, CommonSuccessStatus._OK.getCode(), CommonSuccessStatus._OK.getMessage(), result) ;
     }
 
-    public static <T> ApiResponse<T> of(BaseCode code , T result){
+    public static <T> ApiResponse<T> of(BaseSuccessStatus code , T result){
         return new ApiResponse<>(true, code.getReasonHttpStatus().getCode(), code.getReasonHttpStatus().getMessage() ,result) ;
     }
-    */
+
 
     // 실패한 경우 응답 생성
     public static <T> ApiResponse<T> onFailure(String code, String message, T data){
