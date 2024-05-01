@@ -26,7 +26,7 @@
 #### Week 3
 4/18 (목) <br>
 워크북 : Chapter 6. API URL의 설계 & 프로젝트 세팅 <br> 
-미션/실습 : [API 설계해보기](https://github.com/Vida0822/6th-UMC-HUFS-spring/blob/4cbd3535f8a181d2219de9afc0fc7b8e7237099f/Week3/api.md) <br>
+미션/실습 : [API 설계해보기](https://github.com/Vida0822/6th-UMC-HUFS-spring/wiki/WEEK-3.-%EC%8B%A4%EC%8A%B5-%EA%B3%BC%EC%A0%9C-%E2%80%90-API-%EC%84%A4%EA%B3%84) <br>
 <br>
 <br> 
 
