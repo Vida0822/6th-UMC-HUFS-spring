@@ -35,6 +35,7 @@
 워크북 : [Chapter 8, API 응답 통일 & 에러 핸들러]() <br> 
 세션 자료 : [응답 통일, 에러 핸들러](https://jorippppong.notion.site/Week-4-28565ae6c5024b08ac792720a54a7b9a#34d156ae6be440bca5fa68efa5901d9a) <br> 
 미션/실습 : [global 패키지에 만들어보기](https://github.com/Vida0822/6th-UMC-HUFS-spring/tree/04bcdddd0ba9f60eee467835c932b1ab88348f0d/umc_6th/src/main/java/umc/umc_6th/global) <br> 
+        [흐름정리](https://github.com/Vida0822/6th-UMC-HUFS-spring/wiki/WEEK-4.-%EC%9D%91%EB%8B%B5-%ED%86%B5%EC%9D%BC-&-%EC%97%90%EB%9F%AC-%ED%95%B8%EB%93%A4%EB%9F%AC) <br>
 <br>
 
 </div>
