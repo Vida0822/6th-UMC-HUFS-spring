@@ -15,6 +15,7 @@
 미션/실습 : [ERD 만들어보기](https://github.com/Vida0822/6th-UMC-HUFS-spring/wiki/Week-1.-ERD-%EC%84%A4%EA%B3%84) <br>
 <br>
 
+
 #### Week 2 
 4/11 (목) <br>
 워크북 : [Chapter 7. Jpa를 통한 엔티티 설계, 매핑 & 프로젝트 파일 구조 이해]() <br> 
